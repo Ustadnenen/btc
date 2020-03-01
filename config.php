@@ -1,6 +1,6 @@
 <?php
 
-$email = "pompadennycfd@gmail.com";
+$email = "witotoa@gmail.com";
 $address = "1B2br9TmDE55rSDKypifZjDih7gcBM2PV3";
 
 /* Link Pass :    https://semawur.com/0dGrBL7wm0   */
